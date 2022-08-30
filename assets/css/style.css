@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    background-color: bisque;
+}
+
+header {
+    display: flex; 
+    justify-content: space-between;
+    flex-wrap: wrap;
+    list-style: none;
+    color: rgb(184, 56, 56);
+    height: 60px;
+    font-size: 2vw;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Merienda';font-size: 22px;
+}
+
+.btnHeader {
+    border-radius: 12px;
+    background-color: white;
+    border: 0;
+    outline: 0;
+    color:rgb(184, 56, 56);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn {
+    border-radius: 12px;
+    border: 0;
+    outline: 0; 
+    background-color: rgb(211, 184, 30);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+
+.btnHeader:hover {
+
+    background-color: bisque;
+}
