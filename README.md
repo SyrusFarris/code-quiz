@@ -1,9 +1,18 @@
 # code-quiz
 
+I created a Honda fact quiz where users can answers 5 questions based on random facts about the motor company.
+
+URL: https://syrusfarris.github.io/honda-fact-quiz/
+
+
 * User Story
 AS A coding boot camp student
 I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
 SO THAT I can gauge my progress compared to my peers
+
+
+
+
  
 * Acceptance Criteria
 GIVEN I am taking a code quiz
